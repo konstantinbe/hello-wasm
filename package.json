@@ -1,0 +1,13 @@
+{
+  "name": "hello-wasm",
+  "author": "Konstantin Bender",
+  "license": "ISC",
+  "version": "0.0.1",
+  "description": "Hello wasm, Rust and JS",
+  "main": "hello-wasm.js",
+  "scripts": {
+    "build:wasm": "wasm-pack build"
+  },
+  "devDependencies": {
+  }
+}
